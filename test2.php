@@ -9,4 +9,8 @@ hhh
 
 lalala
 
+<<<<<<< HEAD
 gogogo
+=======
+oooo
+>>>>>>> master
