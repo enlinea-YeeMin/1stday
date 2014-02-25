@@ -25,3 +25,5 @@ lelele
 konichiwa
 
 bonjeur
+
+annyeong
