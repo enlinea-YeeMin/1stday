@@ -26,4 +26,8 @@ konichiwa
 
 bonjeur
 
+
 annyeong
+
+nihao
+
